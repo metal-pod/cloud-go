@@ -1574,6 +1574,9 @@
         "DurosStorageEncryption": {
           "type": "string"
         },
+        "EnableCsiDriverLvm": {
+          "type": "string"
+        },
         "HighAvailability": {
           "type": "string"
         },
@@ -1585,6 +1588,7 @@
         "CalicoEbpfDataplane",
         "DisableCsiLvm",
         "DurosStorageEncryption",
+        "EnableCsiDriverLvm",
         "HighAvailability",
         "LogAcceptedConnections"
       ]
